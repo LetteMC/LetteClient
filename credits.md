@@ -1,6 +1,6 @@
  Emeği Geçenler
  --
-
+Burası her an güncellenebilir.
 
 **ÜzümlüKek#5115 (Discord)**
 <pre>
