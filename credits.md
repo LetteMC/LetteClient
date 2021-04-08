@@ -3,13 +3,18 @@
 
 
 **ÜzümlüKek#5115 (Discord)**
+<pre> 
 
-Programlama
+  Programlama
 
+</pre>
 **HEYSIN#6685 (Discord)**
+<pre> 
 
-Tasarım
+  Tasarım
 
+</pre>
 **valentin9vfx (Instagram)**
-
-Pelerin Tasarımı (japancape)
+<pre>
+  Pelerin Tasarımı (japancape)
+</pre>
