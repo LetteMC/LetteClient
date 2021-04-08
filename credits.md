@@ -2,14 +2,14 @@
  --
 
 
-- ÜzümlüKek#5115 (Discord)
+**ÜzümlüKek#5115 (Discord)**
 
 Programlama
 
-- HEYSIN#6685 (Discord)
+**HEYSIN#6685 (Discord)**
 
 Tasarım
 
-- valentin9vfx (Instagram)
+**valentin9vfx (Instagram)**
 
 Pelerin Tasarımı (japancape)
