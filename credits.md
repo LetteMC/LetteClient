@@ -14,7 +14,6 @@ Tasarım
 <pre>
 Pelerin Tasarımı (japancape)
 </pre>
-<hr>
 **Topluluk Tarafından Yapılan Pelerinler ve Yapan Kişiler**
 <pre>
 Burak_Alp.rar#2356 - Dragon Cape
