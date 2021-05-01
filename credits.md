@@ -17,4 +17,5 @@ Pelerin Tasarımı (japancape)
 **Topluluk Tarafından Yapılan Pelerinler ve Yapan Kişiler**
 <pre>
 Burak_Alp.rar#2356 - Dragon Cape
+BatuhanGG#5213 - LeteClient Cape
 </pre>
