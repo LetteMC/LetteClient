@@ -6,7 +6,7 @@ Burası her an güncellenebilir.
 <pre>
 Programlama
 </pre>
-**HEYSIN#6685 (Discord)**
+**wob#0172 (Discord)**
 <pre>
 Tasarım
 </pre>
